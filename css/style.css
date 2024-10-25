@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Lora:ital,wght@0,400..700;1,400..700&family=Parisienne&family=Petit+Formal+Script&family=Ramaraja&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Ramaraja', serif;
+	font-size: bold;
+	margin: 0px;
+}
+
+h1 {
+	font-family: 'Parisienne', serif;
+	font-size: bold;
+}
+
+h2, h3 {
+	font-family: 'Ramaraja', serif;
+	font-size: bold;
+}
+
+a {
+	text-decoration: none;
+}
